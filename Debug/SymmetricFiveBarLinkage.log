@@ -1,0 +1,6 @@
+﻿  main.cpp
+e:\myfolder\c course\symmetricfivebarlinkage\symmetricfivebarlinkage\main.cpp(35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\myfolder\c course\symmetricfivebarlinkage\symmetricfivebarlinkage\main.cpp(48): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\myfolder\c course\symmetricfivebarlinkage\symmetricfivebarlinkage\main.cpp(78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\myfolder\c course\symmetricfivebarlinkage\symmetricfivebarlinkage\main.cpp(79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SymmetricFiveBarLinkage.vcxproj -> E:\MyFolder\C course\SymmetricFiveBarLinkage\Debug\SymmetricFiveBarLinkage.exe

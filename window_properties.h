@@ -1,0 +1,8 @@
+#ifndef WINDOW_PROPERTIES_H_INCLUDED
+#define WINDOW_PROPERTIES_H_INCLUDED
+
+#define W_W				600.0
+#define W_H				600.0
+#define FPS				10
+
+#endif // !WINDOW_PROPERTIES_H_INCLUDED
